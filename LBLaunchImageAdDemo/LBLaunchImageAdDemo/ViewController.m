@@ -8,6 +8,7 @@
 //  iOS开发学习app下载https://itunes.apple.com/cn/app/it-blog-for-ios-developers/id1067787090?mt=8
 
 #import "ViewController.h"
+#import "TestViewController.h"
 
 @interface ViewController ()
 
@@ -21,6 +22,10 @@
     
 }
 - (IBAction)buttonClick:(id)sender {
+    TestViewController * viewCtrl = [[TestViewController alloc] init];
+    [self presentViewController:viewCtrl animated:YES completion:^{
+        
+    }];
 }
 
 - (void)didReceiveMemoryWarning {
