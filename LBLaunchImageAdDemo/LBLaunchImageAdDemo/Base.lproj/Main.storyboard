@@ -18,7 +18,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="35m-e8-ent">
-                                <rect key="frame" x="234" y="199" width="202" height="77"/>
+                                <rect key="frame" x="234" y="143" width="202" height="133"/>
                                 <color key="backgroundColor" red="0.96078431369999995" green="0.16168194420000001" blue="0.29803921570000003" alpha="1" colorSpace="calibratedRGB"/>
                                 <state key="normal" title="tiao"/>
                                 <connections>
