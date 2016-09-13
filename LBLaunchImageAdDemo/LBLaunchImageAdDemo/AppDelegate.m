@@ -55,7 +55,7 @@
                 NSLog(@"点击跳过回调");
                 break;
             case 1102:
-                NSLog(@"倒计时完成后的回调1234567890-sdfghj");
+                NSLog(@"倒计时完成后的回调1234567890-sdfghj%%%%%%%%%%%%%%%");
                 break;
             default:
                 break;
