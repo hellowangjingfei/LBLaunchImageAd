@@ -52,7 +52,7 @@
             }
                 break;
             case 1101:
-                NSLog(@"点击跳过回调");
+                NSLog(@"点击跳过回调11111111111");
                 break;
             case 1102:
 
