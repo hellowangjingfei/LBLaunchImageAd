@@ -21,6 +21,8 @@
     
 }
 
+- (IBAction)buttonClick:(id)sender {
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
