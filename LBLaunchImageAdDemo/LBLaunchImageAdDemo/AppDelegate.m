@@ -43,6 +43,7 @@
     adView.clickBlock = ^(NSInteger tag){
         switch (tag) {
             case 1100:{
+                NSLog(@"点击广告回调012345Red6789");
                 NSLog(@"点击广告回调helloGreen");
                 TestViewController *vc = [[TestViewController alloc]init];
                 vc.view.backgroundColor = [UIColor whiteColor];
