@@ -52,7 +52,8 @@
             }
                 break;
             case 1101:
-                NSLog(@"点击跳过回调");
+                NSLog(@"点击跳过回调A第二次修改了此处");
+                NSLog(@"点击跳过回调B也修改了此处");
                 break;
             case 1102:
 
