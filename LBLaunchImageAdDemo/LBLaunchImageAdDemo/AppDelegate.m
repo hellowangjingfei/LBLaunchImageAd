@@ -43,7 +43,7 @@
     adView.clickBlock = ^(NSInteger tag){
         switch (tag) {
             case 1100:{
-                NSLog(@"点击广告回调哼哼哼哼哼哼哼哼哼哼哼哼哼哼");
+                NSLog(@"点击广告回调");
                 TestViewController *vc = [[TestViewController alloc]init];
                 vc.view.backgroundColor = [UIColor whiteColor];
                 [self.window.rootViewController presentViewController:vc animated:YES completion:^{
@@ -52,11 +52,11 @@
             }
                 break;
             case 1101:
-                NSLog(@"点击跳过回调11111111111222222222222");
+                NSLog(@"点击跳过回调");
                 break;
             case 1102:
 
-                NSLog(@"倒计时完成后的回调1234567890-sdfghj#########7683487687348793487934879543988954984576834876873487934879348795439889549845倒计时完成后的回调倒计时完成后的回调倒计时完成后的回调倒计时完成后的回调倒计时完成后的回调倒计时完成后的回调");
+                NSLog(@"倒计时完成后的回调");
 
 
                 break;
